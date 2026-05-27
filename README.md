@@ -1,2 +1,0 @@
-# myfirstshop
-redhat
